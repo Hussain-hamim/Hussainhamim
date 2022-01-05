@@ -2,7 +2,8 @@
 - 👀 I’m interested in ... web development, designing and java
 - 🌱 I’m currently learning ... JavaScript and java
 - 💞️ I’m looking to collaborate on ... web development
-- 📫 How to reach me ... mohammadhussainafghan83@gmail.com
+- 📫 How to reach me ... email me: mohammadhussainafghan83@gmail.com
+- Twitter: Hussainhamim19
 
 <!---
 Hussainhamim/Hussainhamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
